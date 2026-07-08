@@ -1,0 +1,158 @@
+[
+  {
+    "id": 0,
+    "img": "img/product/kamis1.jpg",
+    "name": "قميص رجالي قطني كلاسيكي أبيض - مقاسات متعددة",
+    "price": 120,
+    "old_price": 150,
+    "category": "qamiss"
+  },
+  {
+    "id": 1,
+    "img": "img/product/kamis2.jpg",
+    "name": "ثوب رجالي شتوي صوف فاخر - قماش ناعم",
+    "price": 380,
+    "old_price": 450,
+    "category": "qamiss"
+  },
+  {
+    "id": 2,
+    "img": "img/product/kamis3.jpg",
+    "name": "قميص كاجوال بأكمام قصيرة - قطن 100%",
+    "price": 150,
+    "category": "qamiss"
+  },
+  {
+    "id": 3,
+    "img": "img/product/kamis4.jpg",
+    "name": "قميص سعودي فاخر - مخيط من قماش سويسري",
+    "price": 450,
+    "old_price": 500,
+    "category": "qamiss"
+  },
+  {
+    "id": 4,
+    "img": "img/product/kamis1.jpg",
+    "name": "ثوب رجالي صيفي خفيف - قميص قطني مريح",
+    "price": 200,
+    "category": "qamiss"
+  },
+  {
+    "id": 5,
+    "img": "img/product/kamis2.jpg",
+    "name": "قميص رجالي بكم طويل - قماش فاخر ناعم",
+    "price": 190,
+    "category": "qamiss"
+  },
+  {
+    "id": 6,
+    "img": "img/product/kamis3.jpg",
+    "name": "جاكيت جينز رجالي - متين وأنيق عصري",
+    "price": 220,
+    "old_price": 280,
+    "category": "qamiss"
+  },
+  {
+    "id": 7,
+    "img": "img/product/kamis4.jpg",
+    "name": "تيشيرت قطني رياضي - متعدد الألوان",
+    "price": 80,
+    "category": "qamiss"
+  },
+  {
+    "id": 8,
+    "img": "img/product/sleepers1.jpg",
+    "name": "شبشب رجالي جلدي فاخر - مقاس 40-45",
+    "price": 95,
+    "old_price": 130,
+    "category": "slippers"
+  },
+  {
+    "id": 9,
+    "img": "img/product/sleepers2.jpg",
+    "name": "شبشب مطاطي مريح للاستخدام المنزلي",
+    "price": 65,
+    "category": "slippers"
+  },
+  {
+    "id": 10,
+    "img": "img/product/sleepers3.jpg",
+    "name": "شبشب جلدي فاخر - تصميم عصري ومريح",
+    "price": 130,
+    "category": "slippers"
+  },
+  {
+    "id": 11,
+    "img": "img/product/sleepers1.jpg",
+    "name": "شبشب مطاطي مقاوم للماء - رائع للشاطئ",
+    "price": 75,
+    "category": "slippers"
+  },
+  {
+    "id": 12,
+    "img": "img/product/sleepers2.jpg",
+    "name": "شبشب منزلي قطيفة - ناعم ودافئ",
+    "price": 55,
+    "category": "slippers"
+  },
+  {
+    "id": 13,
+    "img": "img/product/sleepers3.jpg",
+    "name": "شبشب رياضي مريح - نعل سميك لتخفيف الصدمات",
+    "price": 110,
+    "old_price": 140,
+    "category": "slippers"
+  },
+  {
+    "id": 14,
+    "img": "img/product/kamis1.jpg",
+    "name": "عطر رجالي خشبي فاخر - 100 مل - تدوم طويلاً",
+    "price": 250,
+    "old_price": 300,
+    "category": "perfume"
+  },
+  {
+    "id": 15,
+    "img": "img/product/kamis2.jpg",
+    "name": "عطر زهري نسائي فاخر - 80 مل - تركيز عالي",
+    "price": 320,
+    "category": "perfume"
+  },
+  {
+    "id": 16,
+    "img": "img/product/kamis3.jpg",
+    "name": "عطر شرقي فاخر - مزيج من العود والمسك",
+    "price": 480,
+    "old_price": 550,
+    "category": "perfume"
+  },
+  {
+    "id": 17,
+    "img": "img/product/kamis4.jpg",
+    "name": "عطر فواكه منعش - 100 مل - مناسب للصيف",
+    "price": 180,
+    "category": "perfume"
+  },
+  {
+    "id": 18,
+    "img": "img/product/sleepers1.jpg",
+    "name": "عطر عود فاخر - 120 مل - إصدار محدود",
+    "price": 550,
+    "old_price": 650,
+    "category": "perfume"
+  },
+  {
+    "id": 19,
+    "img": "img/product/sleepers2.jpg",
+    "name": "عطر مسك أبيض ناعم - 75 مل - رائحة جذابة",
+    "price": 200,
+    "category": "perfume"
+  },
+  {
+    "id": 20,
+    "img": "img/product/sleepers3.jpg",
+    "name": "عطر خشبي وعود - 100 مل - فاخر وثابت",
+    "price": 350,
+    "category": "perfume"
+  }
+]
